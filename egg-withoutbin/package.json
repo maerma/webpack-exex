@@ -1,0 +1,17 @@
+{
+  "name": "egg-withoutbin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "egg-bin dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "egg": "^2.23.0",
+    "egg-bin": "^4.13.0"
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "keys": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\config\\config.default.js",
+  "session": {
+    "maxAge": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+  "name": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "version": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "description": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "main": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "test": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+      "dev": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js"
+    },
+    "keywords": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "author": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "license": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "strict": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+      "depth": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "env": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "level": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "logging": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+      "port": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "D:\\font\\github-repo\\webpack-exex\\egg-withoutbin\\node_modules\\egg\\config\\config.default.js"
+}
