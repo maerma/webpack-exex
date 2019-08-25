@@ -14,8 +14,6 @@ module.exports = {
     new HtmlWebpackPlugin({
       title: 'output mgr'
     }),
-    new webpack.NamedModulesPlugin(),
-    new webpack.HotModuleReplacementPlugin()
   ],
   module: {
     rules: [
@@ -33,11 +31,5 @@ module.exports = {
         ]
       }
     ]
-  },
-  devtool: 'inline-source-map',
-  devServer: {
-    contentBase: './dist',
-    hot: true
-  },
-  mode: "development"
+  }
 }
