@@ -7,14 +7,19 @@ module.exports = {
     app: './src/index.js',
   },
   output: {
-    filename: '[name].bundle.js',
+    filename: '[name].[chunkhash].js',
     path: path.resolve(__dirname, 'dist')
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'output mgr'
+      title: 'workbox'
     }),
   ],
+  optimization: {
+    splitChunks: {
+      chunks: 'all'
+    }
+  },
   module: {
     rules: [
       {

@@ -4,3 +4,4 @@ egg-example
 
 egg-withoutbin
 
+webpack-docs
